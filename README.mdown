@@ -1,5 +1,6 @@
 Isotope
 ========
+**This is a copy for non commercial use, just testing some stuff on my local computer, if you are looking for the original isotope version, see below for links and info. **
 
 **An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts.**
 
